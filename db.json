@@ -1,0 +1,30 @@
+{
+  "clients": {
+    "client": [
+      {
+        "id": "1",
+        "firstName": "Tom",
+        "lastName": "Cruise",
+        "photo": "https://jsonformatter.org/img/tom-cruise.jpg",
+        "job": "Man a newsstand",
+        "minutes": 60
+      },
+      {
+        "id": "2",
+        "firstName": "Maria",
+        "lastName": "Sharapova",
+        "photo": "https://jsonformatter.org/img/Maria-Sharapova.jpg",
+        "job": "Shoe shiner",
+        "minutes": 30
+      },
+      {
+        "id": "3",
+        "firstName": "Robert",
+        "lastName": "Downey Jr.",
+        "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg",
+        "job": "Parking lot attendant",
+        "minutes": 15
+      }
+    ]
+  }
+}
