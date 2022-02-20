@@ -25,7 +25,7 @@
             "N": 40.51368,
             "W": 74.23825
           },
-        "complete": "false"
+        "complete": false
       },
       {
         "id": "3",
@@ -38,7 +38,7 @@
             "N": 40.59976,
             "W": 74.14963
           },
-        "complete": "true"
+        "complete": true
       }
     ]
   }
