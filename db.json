@@ -7,7 +7,11 @@
         "lastName": "Cruise",
         "photo": "https://jsonformatter.org/img/tom-cruise.jpg",
         "job": "Man a newsstand",
-        "minutes": 60
+        "minutes": 60,
+        "coordinates": {
+            "N": 40.52466,
+            "W": 74.23350
+          }
       },
       {
         "id": "2",
@@ -15,7 +19,11 @@
         "lastName": "Sharapova",
         "photo": "https://jsonformatter.org/img/Maria-Sharapova.jpg",
         "job": "Shoe shiner",
-        "minutes": 30
+        "minutes": 30,
+        "coordinates": {
+            "N": 40.51368,
+            "W": 74.23825
+          }
       },
       {
         "id": "3",
@@ -23,7 +31,12 @@
         "lastName": "Downey Jr.",
         "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg",
         "job": "Parking lot attendant",
-        "minutes": 15
+        "minutes": 15,
+        "coordinates": {
+            "N": 40.59976,
+            "W": 74.14963
+          }
+        
       }
     ]
   }
