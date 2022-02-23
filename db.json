@@ -1,45 +1,43 @@
 {
-  "clients": {
-    "client": [
-      {
-        "id": 1,
-        "firstName": "Tom",
-        "lastName": "Cruise",
-        "photo": "https://jsonformatter.org/img/tom-cruise.jpg",
-        "job": "Man a newsstand",
-        "minutes": 60,
-        "coordinates": {
-            "N": 40.52466,
-            "W": 74.23350
-          },
-        "complete": false
-      },
-      {
-        "id": 2,
-        "firstName": "Maria",
-        "lastName": "Sharapova",
-        "photo": "https://jsonformatter.org/img/Maria-Sharapova.jpg",
-        "job": "Shoe shiner",
-        "minutes": 30,
-        "coordinates": {
-            "N": 40.51368,
-            "W": 74.23825
-          },
-        "complete": false
-      },
-      {
-        "id": 3,
-        "firstName": "Robert",
-        "lastName": "Downey Jr.",
-        "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg",
-        "job": "Parking lot attendant",
-        "minutes": 15,
-        "coordinates": {
-            "N": 40.59976,
-            "W": 74.14963
-          },
-        "complete": true
-      }
-    ]
-  }
+  "clients": [
+    {
+      "id": 1,
+      "firstName": "Tom",
+      "lastName": "Cruise",
+      "photo": "https://jsonformatter.org/img/tom-cruise.jpg",
+      "job": "Man a newsstand",
+      "minutes": 60,
+      "coordinates": {
+          "N": 40.52466,
+          "W": 74.23350
+        },
+      "complete": false
+    },
+    {
+      "id": 2,
+      "firstName": "Maria",
+      "lastName": "Sharapova",
+      "photo": "https://jsonformatter.org/img/Maria-Sharapova.jpg",
+      "job": "Shoe shiner",
+      "minutes": 30,
+      "coordinates": {
+          "N": 40.51368,
+          "W": 74.23825
+        },
+      "complete": false
+    },
+    {
+      "id": 3,
+      "firstName": "Robert",
+      "lastName": "Downey Jr.",
+      "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg",
+      "job": "Parking lot attendant",
+      "minutes": 15,
+      "coordinates": {
+          "N": 40.59976,
+          "W": 74.14963
+        },
+      "complete": true
+    }
+  ]
 }
